@@ -1,2 +1,2 @@
 # spring-cloud-config-server
-spribg cloud config server
+spring cloud config server
